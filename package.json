@@ -1,0 +1,13 @@
+{
+    "name": "@runkit/ajhyndman_jsdom",
+    "version": "0.0.0-master",
+    "main": "./lib/main",
+    "dependencies": {
+        "entities": "^1.1.1",
+        "html2markdown": "^1.1.0",
+        "node-jsdom": "3.1.5"
+    },
+    "scripts": {
+        "start": "./lib/main"
+    }
+}
